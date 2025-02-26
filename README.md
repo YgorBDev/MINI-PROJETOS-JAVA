@@ -22,15 +22,15 @@ O repositório está organizado em arquivos, cada um contendo um mini-projeto in
 
 ```
 MINI-PROJETOS-JAVA/
-├── PROJETO - Cadastro.java          # Sistema de cadastro simples
-├── PROJETO - Calculadora Média.java # Calculadora de média de notas
-├── PROJETO - Fitness.java          # Sistema de acompanhamento fitness
-├── PROJETO - Forca Hard.java       # Jogo da forca com dificuldade elevada
-├── PROJETO - Jogo Da Forca Mortal.java # Jogo da forca com desafios extras
-├── PROJETO - Quiz de Futebol.java  # Quiz sobre futebol
-├── PROJETO - Seu Pet.java          # Sistema de gerenciamento de pets
-├── PROJETO - Verificador de Numero Primo.java # Verificador de números primos
-└── README.md                       # Este arquivo
+├── PROJETO - Cadastro.java                       # Sistema de cadastro simples
+├── PROJETO - Calculadora Média.java              # Calculadora de média de notas
+├── PROJETO - Fitness.java                        # Sistema de acompanhamento fitness
+├── PROJETO - Forca Hard.java                     # Jogo da forca com dificuldade elevada
+├── PROJETO - Jogo Da Forca Mortal.java           # Jogo da forca com desafios extras
+├── PROJETO - Quiz de Futebol.java                # Quiz sobre futebol
+├── PROJETO - Seu Pet.java                        # Sistema de gerenciamento de pets
+├── PROJETO - Verificador de Numero Primo.java    # Verificador de números primos
+└── README.md                                     # Este arquivo
 ```
 
 ---
